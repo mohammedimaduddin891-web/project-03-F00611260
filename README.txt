@@ -6,7 +6,7 @@ catch.py
 auth_events.csv
 ground_truth.csv
 impossible_travel.py
-output/run_output.txt
+run_output.txt
 REPORT.docx
 README.txt
 
