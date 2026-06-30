@@ -1,0 +1,17 @@
+parsed_events=32 bad_lines=0
+ALERTS
+2026-03-14T09:13:00  mcompton  impossible_travel  Chicago->Lagos 9607km in 11min = 52404 km/h
+2026-03-14T22:47:00  admin_jdoe  off_hours_admin  login by admin at 22:47
+2026-03-14T22:48:00  admin_jdoe  off_hours_admin  roleassign by admin at 22:48
+2026-03-14T23:11:00  tkline  brute_force  5 failures for one account from 203.0.113.50
+2026-03-15T03:31:00  jfoster  password_spray  failure from shared source IP 203.0.113.50
+2026-03-15T03:33:00  bnguyen  password_spray  failure from shared source IP 203.0.113.50
+2026-03-15T03:35:00  oharris  password_spray  failure from shared source IP 203.0.113.50
+2026-03-15T03:37:00  lcruz  password_spray  failure from shared source IP 203.0.113.50
+2026-03-15T03:39:00  pmurphy  password_spray  failure from shared source IP 203.0.113.50
+2026-03-15T09:02:00  mcompton  privilege_escalation  new role observed: admin
+
+precision=1.000
+recall=1.000
+false_positives=[]
+false_negatives=[]
